@@ -15,7 +15,7 @@ favicon: images/favicon.ico
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://fate.netlify.app
+url: https://aslkami.netlify.app
 root: /
 permalink: :title/
 permalink_defaults:
