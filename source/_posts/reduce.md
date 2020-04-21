@@ -1,6 +1,6 @@
 ---
 title: js-reduce
-date: 2020-04-19 01:32:32
+date: 2020-04-20 01:32:32
 tags: javascript
 categories: [javascript]
 seotitle: reduce
