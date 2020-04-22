@@ -190,7 +190,7 @@ meta:
   title: # 暂无配置
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    avatar: /images/my-icon.jpg
+    avatar: https://cdn.jsdelivr.net/gh/aslkami/hexo-blog/source/images/my-icon.jpg
     name: 安装
     url:
   # 文章创建日期
@@ -271,7 +271,8 @@ widget:
     class: blogger
     display: [desktop, mobile] # [desktop, mobile]
     # avatar: /images/sasaki_nozomi.jpg
-    avatar: /images/yuko_araki.jpg
+    # avatar: /images/yuko_araki.jpg
+    avatar: https://cdn.jsdelivr.net/gh/aslkami/hexo-blog/source/images/sasaki_nozomi.jpg
     shape: rectangle # circle, rectangle
     url: /about/
     title:
@@ -438,7 +439,7 @@ plugins:
     duration: 20000 # Duration (ms)
     fade: 1500 # fade duration (ms) (Not more than 1500)
     images: # For personal use only. At your own risk if used for commercial purposes !!!
-      - /images/cat.jpg
+      - https://cdn.jsdelivr.net/gh/aslkami/hexo-blog/source/images/cat.jpg
       # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg
       # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/BBC19066-E176-47C2-9D22-48C81EE5DF6B.jpeg
       # - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg
@@ -523,7 +524,7 @@ search:
   enable: true
   service: hexo # hexo, google, algolia, azure, baidu
   # js: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-volantis@2.4/js/search.js
-  js: /js/search.js
+  js: https://cdn.jsdelivr.net/gh/aslkami/hexo-blog/source/js/search.js
   google:
     apiKey:
     engineId:
