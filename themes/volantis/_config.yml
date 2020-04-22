@@ -270,11 +270,12 @@ widget:
   blogger:
     class: blogger
     display: [desktop, mobile] # [desktop, mobile]
-    avatar: /images/sasaki_nozomi.jpg
-    shape: circle # circle, rectangle
+    # avatar: /images/sasaki_nozomi.jpg
+    avatar: /images/yuko_araki.jpg
+    shape: rectangle # circle, rectangle
     url: /about/
     title:
-    subtitle: 美好的一天从摸鱼开始
+    subtitle: 凡心所向，素履以往
     jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
     social: true
   # ---------------------------------------
