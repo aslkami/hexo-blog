@@ -1,3 +1,14 @@
+---
+title: React Router 原理
+date: 2021-10-8
+tags: javascript react
+categories: [javascript, react]
+---
+
+简易捋捋 React Router 原理
+
+<!-- more -->
+
 ## 路由原理
 
 利用浏览器自带的路由 history api 二次封装实现 react router
